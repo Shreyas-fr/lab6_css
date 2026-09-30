@@ -1,0 +1,10 @@
+{
+  "name": "salt-pepper-practical",
+  "version": "1.0.0",
+  "description": "Cryptographic Hash Functions Practical - Salt and Pepper Password Protection",
+  "scripts": {
+    "install-all": "cd server && npm install && cd ../client && npm install",
+    "start-server": "cd server && npm start",
+    "start-client": "cd client && npm run dev"
+  }
+}
